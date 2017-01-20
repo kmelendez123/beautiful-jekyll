@@ -1,7 +1,6 @@
 ---
 layout: page
-title: About Kevin Melendez
-meta-title: About me
+title: About me
 subtitle: Obligatory Quote - "A key to success is playing the hand you were dealt like it was the hand you wanted"
 ---
 
