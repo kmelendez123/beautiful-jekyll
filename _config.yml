@@ -26,7 +26,7 @@ navbar-links:
   About Me: "aboutme"
   Projects: 
     - Trademark Search: "http://stsilabs.github.io/tm-search/app/index.html#/"
-  Resume: "resume/Kevin Melendez_Resume.pdf"
+  Resume: "resume/Kevin_Melendez_Resume.pdf"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
