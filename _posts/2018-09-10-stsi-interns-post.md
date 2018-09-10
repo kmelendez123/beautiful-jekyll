@@ -22,7 +22,7 @@ Jimmy and Emmett, were exposed to how the development pipeline for modern softwa
 As the primary project and focus point for accomplishing goals, Learning Lab was naturally the most constructive task and project for the interns this summer.
 
 ## AWS Summit
-![](/img/technologyandtools.png)
+![](/img/summit.png)
 
 I had been to last years AWS Summit during my internship, and knew it had to be a part of this years summer internship program. Not only does it shine light on the dynamically growing industry in the cloud that is AWS, it gives anyone willing to attend an opportunity to integrate themselves within the community and learn more about each other as individuals and corporations. Jimmy's personal blog excerpt on the subject matter displays the potential impact it has:
 
